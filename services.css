@@ -1,0 +1,16 @@
+.services-list{
+    display: flex;
+    flex-direction: row;
+    margin: 12px 10px;
+    width: 98%;
+    font-size: 90px;
+}
+.list{
+    width: 100%;
+    padding: 20px;
+    font-size: 90px;
+    color: aliceblue;
+    margin: 5px;
+    text-align: center;
+    
+}
